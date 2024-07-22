@@ -74,7 +74,8 @@ public class Exemplo {
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
 
 ### Consultas
-<a href="https://stackoverflow.com/questions/3120922/joptionpane-input-to-int">
+<a href="https://stackoverflow.com/questions/3120922/joptionpane-input-to-int">stackoverflow</a>
+
 
 
 
