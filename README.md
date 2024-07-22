@@ -1,3 +1,5 @@
+![Print](Simulador-Bancario-JOptionPane/metodo JOptionPane.png)
+
 # JOptionPane
 O método JOptionPane.showMessageDialog é usado para exibir uma caixa de diálogo simples com uma mensagem.
 Ele faz parte da biblioteca Swing do Java e é muito útil para mostrar informações ao usuário de forma rápida e fácil. 
