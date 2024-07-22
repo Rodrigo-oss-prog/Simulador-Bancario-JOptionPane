@@ -1,4 +1,4 @@
-[![Print](Simulador-Bnacario-JOptionPane/metodo JOptionPane.png)]
+<img alt="Saída do programa" src="metodo JOptionPane.png" />
 
 # JOptionPane
 O método JOptionPane.showMessageDialog é usado para exibir uma caixa de diálogo simples com uma mensagem.
